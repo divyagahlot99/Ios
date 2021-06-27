@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Eval",
+        "repositoryURL": "https://github.com/tevelee/Eval.git",
+        "state": {
+          "branch": null,
+          "revision": "2070dfb6f739a9665c81601162ac16ee8291fb30",
+          "version": "1.5.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
